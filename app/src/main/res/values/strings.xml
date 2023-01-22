@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodTrackerPractice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get">готово</string>
+    <string name="set">ваш_заголовок</string>
+    <string name="she">ваше_описание</string>
+</resources>
